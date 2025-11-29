@@ -2,13 +2,13 @@
 
 Automatic synchronization of UVSQ course schedules to iCalendar format. Subscribe once, stay updated automatically.
 
-[![Update Calendars](https://github.com/YOUR_USERNAME/edt-uvsq-ics/actions/workflows/update_calendar.yml/badge.svg)](https://github.com/YOUR_USERNAME/edt-uvsq-ics/actions/workflows/update_calendar.yml)
+[![Update Calendars](https://github.com/khaledbouabdallah/uvsq-calendar-sync/actions/workflows/update_calendar.yml/badge.svg)](https://github.com/khaledbouabdallah/uvsq-calendar-sync/actions/workflows/update_calendar.yml)
 
 ## 📥 Subscribe to Your Calendar
 
 ### Available Calendars
 
-- **M2 DATASCALE**: [Subscribe](webcal://raw.githubusercontent.com/YOUR_USERNAME/edt-uvsq-ics/main/calendars/M2_DATASCALE.ics) | [View](https://raw.githubusercontent.com/YOUR_USERNAME/edt-uvsq-ics/main/calendars/M2_DATASCALE.ics)
+- **M2 DATASCALE**: [Subscribe](webcal://raw.githubusercontent.com/khaledbouabdallah/uvsq-calendar-sync/main/calendars/M2_DATASCALE.ics) | [View](https://raw.githubusercontent.com/khaledbouabdallah/uvsq-calendar-syncs/main/calendars/M2_DATASCALE.ics)
 
 ### How to Subscribe
 
@@ -33,8 +33,8 @@ Automatic synchronization of UVSQ course schedules to iCalendar format. Subscrib
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/edt-uvsq-ics.git
-cd edt-uvsq-ics
+git clone https://github.com/khaledbouabdallah/uvsq-calendar-sync.git
+cd uvsq-calendar-sync
 
 # Install uv (if not already installed)
 curl -LsSf https://astral.sh/uv/install.sh | sh
