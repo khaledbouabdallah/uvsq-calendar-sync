@@ -50,5 +50,5 @@ testpaths = ["tests"]
 python_files = ["test_*.py"]
 python_functions = ["test_*"]
 addopts = "--cov=src/edt_uvsq --cov-report=term-missing"
-pythonpath = ["src"]g
+pythonpath = ["src"]
 
