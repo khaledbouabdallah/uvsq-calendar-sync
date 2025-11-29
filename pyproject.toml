@@ -1,0 +1,25 @@
+[project]
+name = "uvsq-calendar-sync"
+version = "1.0.0"
+description = "Automatic calendar sync for UVSQ course schedules"
+authors = [
+    {name = "Khaled BOUABDALLAH", email = "khaled.bouabdallah@ens.uvsq.fr"}
+]
+readme = "README.md"
+
+requires-python = ">=3.13"
+license = {text = "MIT"}
+dependencies = [
+    "icalendar>=6.3.2",
+    "pytz>=2025.2",
+    "requests>=2.32.5",
+]
+
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.3",
+    "pytest-cov>=4.1.0",
+    "ruff>=0.1.9",
+]
+
