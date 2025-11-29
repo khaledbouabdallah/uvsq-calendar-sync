@@ -8,7 +8,7 @@ Automatic synchronization of UVSQ course schedules to iCalendar format. Subscrib
 
 ### Available Calendars
 
-- **M2 DATASCALE**: [Subscribe](webcal://raw.githubusercontent.com/khaledbouabdallah/uvsq-calendar-sync/main/calendars/M2_DATASCALE.ics) | [View](https://raw.githubusercontent.com/khaledbouabdallah/uvsq-calendar-syncs/main/calendars/M2_DATASCALE.ics)
+- **M2 DATASCALE**: [Subscribe](webcal://raw.githubusercontent.com/khaledbouabdallah/uvsq-calendar-sync/main/calendars/M2_DATASCALE.ics) | [View](https://raw.githubusercontent.com/khaledbouabdallah/uvsq-calendar-sync/main/calendars/M2_DATASCALE.ics)
 
 ### How to Subscribe
 
